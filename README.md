@@ -3,7 +3,7 @@ If you want to try some cool stuff, you should just start with some light drugs,
 
 ## Goal of the talk
 In this talk it was covered basic VueJS functionalities creating a simple list of strings as shown on the image below:
-[Screenshot of the built project]: ./done/screenshot.png
+![Screenshot of the built project](./done/screenshot.png)
 
 ## Topics covered
 ```
